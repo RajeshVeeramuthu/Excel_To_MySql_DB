@@ -15,7 +15,7 @@ namespace excel_to_db
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Form1());//main file
         }
     }
 }
